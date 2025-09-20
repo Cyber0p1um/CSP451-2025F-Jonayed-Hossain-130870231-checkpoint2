@@ -1,3 +1,4 @@
+HEAD
 # CSP451 Student Seed (Weeks 1–3)
 
 Starter repository for CheckPoints 1–3. Use this to begin your assignments.
@@ -63,3 +64,14 @@ npm run build
 MIT
 
 See WORKFLOWS.md for detailed CI/CD documentation.
+
+# CSP451 Checkpoint 2
+
+This repository is for my CSP451-2025F Checkpoint 2 lab.  
+Author: Md Jonayed Hossain (130870231)
+
+## Features
+- User Authentication
+- Database Connection
+- API Endpoints
+7202afc (Create README.md)
