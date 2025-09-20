@@ -75,3 +75,5 @@ Author: Md Jonayed Hossain (130870231)
 - Database Connection
 - API Endpoints
 7202afc (Create README.md)
+
+- Added mock API docs and handlers
