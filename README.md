@@ -1,5 +1,6 @@
 HEAD
 # CSP451 Student Seed (Weeks 1–3)
+This is from conflict-demo branch.
 
 Starter repository for CheckPoints 1–3. Use this to begin your assignments.
 
