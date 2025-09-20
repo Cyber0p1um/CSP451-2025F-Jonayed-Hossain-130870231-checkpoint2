@@ -77,4 +77,8 @@ Author: Md Jonayed Hossain (130870231)
 7202afc (Create README.md)
 
 - Added mock API docs and handlers
+ conflict/b
 Project tagline: Version B
+
+Project tagline: Version A
+ main
